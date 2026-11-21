@@ -2,7 +2,7 @@
   "version": "0.3.337",
   "releasedAt": "2026-11-21T06:00:00.000Z",
   "mandatoryReinstall": false,
-  "changelog": "1. Hỗ trợ chuyển đổi song ngữ VI/EN trực tiếp từ Topbar.\n2. Sửa lỗi từ chối tác vụ nhận diện khi có biến thể nhân vật Mây Ô.\n3. Thêm script Mở_Khóa_to.on.command trong file DMG.\n4. Thu gọn kích thước giao diện to.on Connect 330px.",
+  "changelog": "1. Hỗ trợ chuyển đổi song ngữ VI/EN trực tiếp từ Topbar và tự động đồng bộ prompt chỉ thị ngôn ngữ sang AI.\n2. Tích hợp công cụ Mở_Khóa_to.on.command trong file DMG giúp mở nhanh không cần gõ lệnh thủ công.\n3. Thu gọn kích thước tiện ích to.on Connect 330px.",
   "downloadUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.337/to.on-0.3.337.dmg",
   "dmgSha256": "7512e1b0230a281c9a8ca952db7827d57c256be323648f0f0f98c9c8022ddab1",
   "asarUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.337/app-0.3.337.asar",
