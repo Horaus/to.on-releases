@@ -1,0 +1,9 @@
+{
+  "version": "0.3.336c",
+  "releasedAt": "2026-11-21T01:15:00Z",
+  "downloadUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.336c/to.on-0.3.336c.dmg",
+  "asarUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.336c/app-0.3.336c.asar",
+  "asarSha256": "c8a1ef4450be3c19e547decb58566fd40b579f3224315409caab50e83889b4da",
+  "asarSize": 52539424,
+  "changelog": "to.on Studio v0.3.336c: Tối ưu chuyển tab mượt mà không đứng hình; hỗ trợ Gemini Auto & kéo dài timeout cho mô hình suy nghĩ; tự động phản bác chính sách nội dung sai trên ChatGPT; sửa nhận diện upload ảnh tham chiếu trong composer; hỗ trợ cập nhật trực tiếp OTA không cần tải DMG."
+}

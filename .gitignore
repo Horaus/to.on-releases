@@ -1,0 +1,8 @@
+# Ignore binary build artifacts from git tree
+# File DMG và ASAR được upload qua GitHub Releases, không commit trực tiếp vào git commit
+releases/**/*.dmg
+releases/**/*.asar
+*.dmg
+*.asar
+*.zip
+.DS_Store
