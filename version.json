@@ -1,9 +1,11 @@
 {
-  "version": "0.3.336c",
-  "releasedAt": "2026-11-21T01:15:00Z",
-  "downloadUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.336c/to.on-0.3.336c.dmg",
-  "asarUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.336c/app-0.3.336c.asar",
-  "asarSha256": "c8a1ef4450be3c19e547decb58566fd40b579f3224315409caab50e83889b4da",
-  "asarSize": 52539424,
-  "changelog": "to.on Studio v0.3.336c: Tối ưu chuyển tab mượt mà không đứng hình; hỗ trợ Gemini Auto & kéo dài timeout cho mô hình suy nghĩ; tự động phản bác chính sách nội dung sai trên ChatGPT; sửa nhận diện upload ảnh tham chiếu trong composer; hỗ trợ cập nhật trực tiếp OTA không cần tải DMG."
+  "version": "0.3.337",
+  "releasedAt": "2026-11-21T06:00:00.000Z",
+  "mandatoryReinstall": false,
+  "changelog": "1. Hỗ trợ chuyển đổi song ngữ VI/EN trực tiếp từ Topbar.\n2. Sửa lỗi từ chối tác vụ nhận diện khi có biến thể nhân vật Mây Ô.\n3. Thêm script Mở_Khóa_to.on.command trong file DMG.\n4. Thu gọn kích thước giao diện to.on Connect 330px.",
+  "downloadUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.337/to.on-0.3.337.dmg",
+  "dmgSha256": "7512e1b0230a281c9a8ca952db7827d57c256be323648f0f0f98c9c8022ddab1",
+  "asarUrl": "https://github.com/Horaus/to.on-releases/releases/download/v0.3.337/app-0.3.337.asar",
+  "asarSha256": "b3a62ebf3e5f70d06b002b9f94882805862f77914060bb4bc5830bf5ae17e205",
+  "asarSize": 52554407
 }
